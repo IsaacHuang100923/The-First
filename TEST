@@ -1,0 +1,8 @@
+echo "# The-First" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:IsaacHuang100923/The-First.git
+git push -u origin main
+give README.md text:https://githubtest-the-first.mystrikingly.com
